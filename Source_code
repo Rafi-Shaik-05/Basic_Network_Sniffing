@@ -1,4 +1,5 @@
 #Netowork Sniffing
+#...NOTE-->Run the code as root user like ---> sudo python3.12 sniffing.py
 
 import socket
 import struct
