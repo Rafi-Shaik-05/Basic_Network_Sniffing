@@ -2,4 +2,4 @@
 **CodaAlpha** 
 Cybersecurity Internship Task-1:
 
-***Build a Network sniffer in python that captures and analzes network traffic.***
+***Build a Network sniffer in python that captures and analyzes network traffic.***
